@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-
+  <img src="https://img.shields.io/badge/🚀YOLO-7B68EE?style=for-the-badge"/>
 </div>
 
 <br>
