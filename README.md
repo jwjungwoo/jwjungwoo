@@ -31,12 +31,6 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 </div>
 
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
-</div>
-
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
@@ -49,6 +43,7 @@
 <br>
 
 [🔗 My GitHub Blog](https://jwjungwoo.github.io/categories/)
+<br>
 [🔗 My Notion Profile](https://www.notion.so/1b32c1d8dac480858f45d61e2287b06e)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwjungwoo)](https://solved.ac/jwjungwoo/)
