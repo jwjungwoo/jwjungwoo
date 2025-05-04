@@ -47,9 +47,9 @@
   </a>
 </div
 <br>
-<br>
 
 [🔗 My GitHub Blog](https://jwjungwoo.github.io/categories/)
+[🔗 My Notion Profile](https://www.notion.so/1b32c1d8dac480858f45d61e2287b06e)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwjungwoo)](https://solved.ac/jwjungwoo/)
 </div>
