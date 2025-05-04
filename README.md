@@ -19,19 +19,7 @@
 </div>
 
 
-<br>
 
-<h3 align="center">📚 Studying 📚</h3>
-<div aling="center">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>&nbsp
-</div>
-<br>
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Autosar_Logo.svg/2560px-Autosar_Logo.svg.png" width = 23% />&nbsp
-</div>
-
-<br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
