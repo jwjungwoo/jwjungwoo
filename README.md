@@ -1,19 +1,12 @@
 <div>
   
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=b8cff8&height=250&section=header&text=Welcome%20to%20jwjungwoo's%20github%20%F0%9F%A4%97&fontColor=ffffff&fontSize=40&animation=twinkling&fontAlignY=30&alignment=center)
+![header](https://capsule-render.vercel.app/api?type=waving&color=91b6f7&height=250&section=header&text=Welcome%20to%20jwjungwoo's%20github%20%F0%9F%A4%97&fontColor=ffffff&fontSize=40&animation=twinkling&fontAlignY=30&alignment=center)
   
 </div>
 
 <div>
   <!--Body-->
-  
-  ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
-  <br/>
-  <br/>
   
   ## 🧱 Tech Stack
   ### Language
