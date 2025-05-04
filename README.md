@@ -52,7 +52,7 @@
 <br>
 <br>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=shintaewon)](https://github.com/eungyeole/velog-readme-stats)
+[![jwjungwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwjungwoo&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwjungwoo)](https://solved.ac/jwjungwoo/)
 </div>
