@@ -1,7 +1,7 @@
 <div>
   
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20jwjungwoo's%20github%20%F0%9F%A4%97&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3b7efc&height=300&section=header&text=Welcome%20to%20jwjungwoo's%20github%20%F0%9F%A4%97&fontSize=40)
   
 </div>
 
