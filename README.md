@@ -17,7 +17,9 @@
 
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/LiDAR-00BFFF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LiDAR-6E7B8B?style=for-the-badge&logo=airplayaudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Camera-6E7B8B?style=for-the-badge&logo=airplayaudio&logoColor=white"/>
+
 
 </div>
 
