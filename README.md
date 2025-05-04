@@ -1,11 +1,8 @@
-<div>
-  
-<!--Header-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=91b6f7&height=250&section=header&text=Welcome%20to%20jwjungwoo's%20github%20%F0%9F%A4%97&fontColor=ffffff&fontSize=40&animation=twinkling&fontAlignY=30&alignment=center)
-  
-</div>
+<div align="center"> 
 
-<div>
+<!--타이틀 부분-->
+![header]([https://capsule-render.vercel.app/api?type=Waving&color=91AFFF&height=250&section=header&text="Welcome%20to%20Terry'%20github"&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlignY=30&alignment=center](https://capsule-render.vercel.app/api?type=waving&color=91b6f7&height=250&section=header&text=Welcome%20to%20jwjungwoo's%20github%20%F0%9F%A4%97&fontColor=ffffff&fontSize=40&animation=twinkling&fontAlignY=30&alignment=center))
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
