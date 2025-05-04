@@ -54,5 +54,5 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=shintaewon)](https://github.com/eungyeole/velog-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsxodnjs147)](https://solved.ac/tlsxodnjs147/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwjungwoo)](https://solved.ac/jwjungwoo/)
 </div>
