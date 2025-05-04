@@ -47,14 +47,14 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwjungwoo)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwjungwoo)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
 <!--
-**Jiyu-Kim/Jiyu-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jwjungwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - Hi there 👋
