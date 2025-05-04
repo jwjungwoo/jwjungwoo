@@ -52,7 +52,7 @@
 <br>
 <br>
 
-[🔗 My GitHub Blog](https://github.com/jwjungwoo)
+[🔗 My GitHub Blog](https://jwjungwoo.github.io/)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwjungwoo)](https://solved.ac/jwjungwoo/)
 </div>
