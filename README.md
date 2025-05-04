@@ -41,12 +41,9 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="[https://velog.io/@oka1313](https://velog.io/@shintaewon/posts)">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
   <a href="mailto:tlsxodnjs147@gmail.com">
     <img
-      src="https://img.shields.io/badge/tlsxodnjs147@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/jw.jungwoo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div
 <br>
