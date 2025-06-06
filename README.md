@@ -52,8 +52,9 @@
 [🔗 My GitHub Blog](https://jwjungwoo.github.io/categories/)
 <br>
 [🔗 My Notion Profile](https://abundant-astrodon-f46.notion.site/1b32c1d8dac480858f45d61e2287b06e)
-
+<br>
 [🔗 My Embedded Organization](https://github.com/Embedded-3)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwjungwoo)](https://solved.ac/jwjungwoo/)
 
 
