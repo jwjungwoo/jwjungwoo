@@ -78,7 +78,7 @@
 <br>
 <br>
 
-<h2 align="center">🚘 Autoever Embedded 스쿨 Project 2🚘</h2>
+<h1 align="center">🚘 Autoever Embedded 스쿨 Project 2🚘</h1>
 <img width="953" alt="스크린샷 2025-06-06 133657" src="https://github.com/user-attachments/assets/0e906e2c-7d21-446e-bf63-9600e95cdc2d" />
 <img width="953" alt="스크린샷 2025-06-06 134245" src="https://github.com/user-attachments/assets/0aa5dcfc-51fe-483a-b77b-b20c874ad388" />
 <img width="299" alt="스크린샷 2025-06-06 133727" src="https://github.com/user-attachments/assets/6bd05e5b-bc37-410b-a152-1e830a22ff7e" />
@@ -93,8 +93,7 @@
 <img width="950" alt="스크린샷 2025-06-06 130724" src="https://github.com/user-attachments/assets/c43eb5a1-2b7d-4269-80c9-199533dc79a6" />
 <img width="953" alt="스크린샷 2025-06-06 171310" src="https://github.com/user-attachments/assets/56c1c62e-0d3a-4db6-9d00-68f47dadb537" />
 <img width="503" alt="스크린샷 2025-05-28 225427" src="https://github.com/user-attachments/assets/941d1040-20e6-4c87-b06e-d41a747d0e4f" />
-![KakaoTalk_20250608_170516236](https://github.com/user-attachments/assets/ceee0687-c104-44d1-9ae8-6c97676f80a3)
-![KakaoTalk_20250608_170516236_01](https://github.com/user-attachments/assets/4ad9ea66-c9f6-4698-a29c-6783f2574814)
-
+<img width="503" alt="KakaoTalk_20250608_170516236" src="https://github.com/user-attachments/assets/ceee0687-c104-44d1-9ae8-6c97676f80a3" />
+<img width="503" alt="KakaoTalk_20250608_170516236_01" src="https://github.com/user-attachments/assets/4ad9ea66-c9f6-4698-a29c-6783f2574814" />
 
 </div>
