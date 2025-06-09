@@ -59,7 +59,7 @@
 
 
 <!--내용 부분-->
-<h3 align="center">🚘 Autoever Embedded School 🚘</h3>
+<h3 align="center">🚘 Autoever Embedded 스쿨 Project 1🚘</h3>
 <img width="959" alt="스크린샷 2025-06-05 230528" src="https://github.com/user-attachments/assets/9675408b-3f64-4c47-b065-0addbce92bf7" />
 <img width="956" alt="스크린샷 2025-06-05 230548" src="https://github.com/user-attachments/assets/395e8fef-dc68-4e2c-99d7-2e6516497a2d" />
 <img width="299" alt="스크린샷 2025-06-06 122848" src="https://github.com/user-attachments/assets/cacae9cc-482e-494b-9590-4f538548c91b" />
@@ -70,9 +70,32 @@
 <img width="901" alt="스크린샷 2025-06-06 111819" src="https://github.com/user-attachments/assets/deed0ae0-c46f-4356-9268-355cf0418b0d" />
 <img width="905" alt="스크린샷 2025-06-06 111840" src="https://github.com/user-attachments/assets/7da639da-2b1e-4f23-b1ba-050189979db1" />
 <img width="902" alt="스크린샷 2025-06-06 111938" src="https://github.com/user-attachments/assets/a7ac591d-87bc-4c02-9479-50627df5a1a0" />
+<img width="905" alt="스크린샷 2025-06-06 120919" src="https://github.com/user-attachments/assets/fa128a14-d2f4-4f06-ac16-6787383fa0ce" />
+<img width="905" alt="스크린샷 2025-06-06 115617" src="https://github.com/user-attachments/assets/16e442cf-1022-4a53-8613-d7710deed4ae" />
 <img width="907" alt="스크린샷 2025-06-06 112040" src="https://github.com/user-attachments/assets/bf78e31f-8ba2-48c7-b09f-c0dc6e0e0fd4" />
-
-
+<img width="906" alt="스크린샷 2025-06-06 120841" src="https://github.com/user-attachments/assets/2c6216b9-ee77-430f-b5b6-73e245b6f9ea" />
+<img width="956" alt="스크린샷 2025-06-06 130119" src="https://github.com/user-attachments/assets/fcc8700b-816b-409d-84c7-c69a1c9fdc54" />
+<img width="953" alt="스크린샷 2025-06-06 130132" src="https://github.com/user-attachments/assets/993f9a66-2893-4f46-8583-4789ba779345" />
 <br>
+<br>
+
+<h3 align="center">🚘 Autoever Embedded 스쿨 Project 2🚘</h3>
+<img width="953" alt="스크린샷 2025-06-06 133657" src="https://github.com/user-attachments/assets/0e906e2c-7d21-446e-bf63-9600e95cdc2d" />
+<img width="953" alt="스크린샷 2025-06-06 134245" src="https://github.com/user-attachments/assets/0aa5dcfc-51fe-483a-b77b-b20c874ad388" />
+<img width="299" alt="스크린샷 2025-06-06 133727" src="https://github.com/user-attachments/assets/6bd05e5b-bc37-410b-a152-1e830a22ff7e" />
+<img width="953" alt="스크린샷 2025-06-06 133544" src="https://github.com/user-attachments/assets/32d4a697-5787-431a-9d2d-0b132e678a87" />
+<img width="953" alt="스크린샷 2025-06-06 171908" src="https://github.com/user-attachments/assets/19acfb33-a5df-428c-bc01-f4d8db7005a5" />
+<img width="954" alt="스크린샷 2025-06-06 133524" src="https://github.com/user-attachments/assets/f8622fb7-ec2d-4abe-b4c2-ad72c419a0ef" />
+<img width="952" alt="스크린샷 2025-06-06 160525" src="https://github.com/user-attachments/assets/a3a1a013-0b0f-45cd-9219-f1223f3cd79c" />
+<img width="356" alt="스크린샷 2025-06-06 131537" src="https://github.com/user-attachments/assets/35f44576-242e-4b6d-bc23-63c6a77dad84" />
+<img width="414" alt="스크린샷 2025-06-06 133407" src="https://github.com/user-attachments/assets/1901836b-39e1-485d-8062-4dda4f002e95" />
+![KakaoTalk_20250606_135033081](https://github.com/user-attachments/assets/e1552606-d4fe-4aaf-9b46-a60b7a57bc44)
+![KakaoTalk_20250606_135038205](https://github.com/user-attachments/assets/907a6d86-1f14-4920-9184-ba4c122287f1)
+<img width="950" alt="스크린샷 2025-06-06 130724" src="https://github.com/user-attachments/assets/c43eb5a1-2b7d-4269-80c9-199533dc79a6" />
+<img width="953" alt="스크린샷 2025-06-06 171310" src="https://github.com/user-attachments/assets/56c1c62e-0d3a-4db6-9d00-68f47dadb537" />
+<img width="503" alt="스크린샷 2025-05-28 225427" src="https://github.com/user-attachments/assets/941d1040-20e6-4c87-b06e-d41a747d0e4f" />
+![KakaoTalk_20250608_170516236](https://github.com/user-attachments/assets/ceee0687-c104-44d1-9ae8-6c97676f80a3)
+![KakaoTalk_20250608_170516236_01](https://github.com/user-attachments/assets/4ad9ea66-c9f6-4698-a29c-6783f2574814)
+
 
 </div>
