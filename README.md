@@ -88,8 +88,7 @@
 <img width="952" alt="스크린샷 2025-06-06 160525" src="https://github.com/user-attachments/assets/a3a1a013-0b0f-45cd-9219-f1223f3cd79c" />
 <img width="356" alt="스크린샷 2025-06-06 131537" src="https://github.com/user-attachments/assets/35f44576-242e-4b6d-bc23-63c6a77dad84" />
 <img width="414" alt="스크린샷 2025-06-06 133407" src="https://github.com/user-attachments/assets/1901836b-39e1-485d-8062-4dda4f002e95" />
-![KakaoTalk_20250606_135033081](https://github.com/user-attachments/assets/e1552606-d4fe-4aaf-9b46-a60b7a57bc44)
-![KakaoTalk_20250606_135038205](https://github.com/user-attachments/assets/907a6d86-1f14-4920-9184-ba4c122287f1)
+<img width="745" alt="스크린샷 2025-06-09 123324" src="https://github.com/user-attachments/assets/4d7872bd-7d1d-4bb2-872e-d1a442ad5212" />
 <img width="950" alt="스크린샷 2025-06-06 130724" src="https://github.com/user-attachments/assets/c43eb5a1-2b7d-4269-80c9-199533dc79a6" />
 <img width="953" alt="스크린샷 2025-06-06 171310" src="https://github.com/user-attachments/assets/56c1c62e-0d3a-4db6-9d00-68f47dadb537" />
 <img width="503" alt="스크린샷 2025-05-28 225427" src="https://github.com/user-attachments/assets/941d1040-20e6-4c87-b06e-d41a747d0e4f" />
