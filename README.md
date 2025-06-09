@@ -58,7 +58,7 @@
 
 
 <!--내용 부분-->
-<h5 align="center">🚘 Autoever Embedded 스쿨 Project 1🚘</h5>
+<h1 align="center">🚘 Autoever Embedded 스쿨 Project 1🚘</h1>
 <img width="959" alt="스크린샷 2025-06-05 230528" src="https://github.com/user-attachments/assets/9675408b-3f64-4c47-b065-0addbce92bf7" />
 <img width="956" alt="스크린샷 2025-06-05 230548" src="https://github.com/user-attachments/assets/395e8fef-dc68-4e2c-99d7-2e6516497a2d" />
 <img width="299" alt="스크린샷 2025-06-06 122848" src="https://github.com/user-attachments/assets/cacae9cc-482e-494b-9590-4f538548c91b" />
@@ -78,7 +78,7 @@
 <br>
 <br>
 
-<h3 align="center">🚘 Autoever Embedded 스쿨 Project 2🚘</h3>
+<h2 align="center">🚘 Autoever Embedded 스쿨 Project 2🚘</h2>
 <img width="953" alt="스크린샷 2025-06-06 133657" src="https://github.com/user-attachments/assets/0e906e2c-7d21-446e-bf63-9600e95cdc2d" />
 <img width="953" alt="스크린샷 2025-06-06 134245" src="https://github.com/user-attachments/assets/0aa5dcfc-51fe-483a-b77b-b20c874ad388" />
 <img width="299" alt="스크린샷 2025-06-06 133727" src="https://github.com/user-attachments/assets/6bd05e5b-bc37-410b-a152-1e830a22ff7e" />
